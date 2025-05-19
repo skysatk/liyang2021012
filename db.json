@@ -1,0 +1,38 @@
+
+{
+    "monthlySales": [
+      {"month": "1月", "electronics": 12500, "clothing": 8900, "home": 7600, "books": 4500},
+      {"month": "2月", "electronics": 13200, "clothing": 9100, "home": 7800, "books": 4700},
+      {"month": "3月", "electronics": 14100, "clothing": 9500, "home": 8100, "books": 4900},
+      {"month": "4月", "electronics": 15200, "clothing": 9800, "home": 8400, "books": 5200},
+      {"month": "5月", "electronics": 16300, "clothing": 10200, "home": 8900, "books": 5500},
+      {"month": "6月", "electronics": 17200, "clothing": 10800, "home": 9200, "books": 5800},
+      {"month": "7月", "electronics": 18100, "clothing": 11200, "home": 9600, "books": 6100},
+      {"month": "8月", "electronics": 17500, "clothing": 10500, "home": 9300, "books": 5900},
+      {"month": "9月", "electronics": 16800, "clothing": 9800, "home": 8900, "books": 5600},
+      {"month": "10月", "electronics": 18500, "clothing": 11500, "home": 10100, "books": 6400},
+      {"month": "11月", "electronics": 19800, "clothing": 12400, "home": 10800, "books": 7200},
+      {"month": "12月", "electronics": 21500, "clothing": 13800, "home": 11800, "books": 8500}
+    ],
+    "salesChannels": [
+      {"name": "官网", "value": 45},
+      {"name": "手机APP", "value": 35},
+      {"name": "第三方平台", "value": 15},
+      {"name": "线下门店", "value": 5}
+    ],
+    "products": [
+      {"name": "智能手机X", "price": 3999, "sales": 1250, "category": "electronics"},
+      {"name": "笔记本电脑Y", "price": 6999, "sales": 680, "category": "electronics"},
+      {"name": "无线耳机Z", "price": 599, "sales": 3200, "category": "electronics"},
+      {"name": "男士T恤A", "price": 129, "sales": 5800, "category": "clothing"},
+      {"name": "女士连衣裙B", "price": 299, "sales": 3200, "category": "clothing"},
+      {"name": "运动鞋C", "price": 499, "sales": 2100, "category": "clothing"},
+      {"name": "沙发D", "price": 3999, "sales": 380, "category": "home"},
+      {"name": "台灯E", "price": 199, "sales": 1500, "category": "home"},
+      {"name": "厨具套装F", "price": 599, "sales": 920, "category": "home"},
+      {"name": "编程书籍G", "price": 89, "sales": 2800, "category": "books"},
+      {"name": "小说H", "price": 49, "sales": 5100, "category": "books"},
+      {"name": "儿童读物I", "price": 69, "sales": 3200, "category": "books"}
+    ]
+  }
+  
